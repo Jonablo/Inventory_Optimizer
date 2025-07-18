@@ -13,7 +13,7 @@ Este proyecto implementa y expone un motor de optimización de inventarios basad
 ## 1. Clonar repositorio y crear entorno virtual
 
 ```bash
-git clone <URL_DEL_REPO>
+git clone https://github.com/Jonablo/Inventory_Optimizer.git
 cd inventory_optimizer
 python -m venv .venv
 source .venv/bin/activate
@@ -118,5 +118,5 @@ Agrega aquí capturas de pantalla de cada sección (API, scripts, frontend) para
 
 ---
 
-> **Autor:** Grupo #, Investigación de Operaciones
+> **Autor:** Grupo 4, Investigación de Operaciones
 > **Fecha:** Julio 18, 2025.
