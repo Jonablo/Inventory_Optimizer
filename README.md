@@ -110,13 +110,6 @@ npm run dev
 
 Abre tu navegador en [http://localhost:3000](http://localhost:3000) para ver el formulario e interface.
 
----
-
-## Capturas de Ejecución
-
-Agrega aquí capturas de pantalla de cada sección (API, scripts, frontend) para documentar los resultados obtenidos.
-
----
 
 > **Autor:** Grupo 4, Investigación de Operaciones
 > **Fecha:** Julio 18, 2025.
