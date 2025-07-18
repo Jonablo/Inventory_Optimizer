@@ -62,7 +62,7 @@ coverage.xml
 *.sublime-project
 
 # Devcontainer
-.devcontainer/
+#.devcontainer/
 
 # Node / frontend
 node_modules/
